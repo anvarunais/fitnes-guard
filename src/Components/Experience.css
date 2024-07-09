@@ -1,0 +1,31 @@
+.destination {
+  margin: 6rem 0rem;
+  color: #4a4a4a;
+}
+
+.destination h1 {
+  font-size: 3rem;
+  margin: 2rem;
+}
+
+.heading {
+  font-size: 3rem;
+  margin: 2rem;
+  color: #8ec038;
+}
+
+.destination h2 {
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.video {
+  margin-bottom: 30px;
+  align-items: center;
+}
+.link {
+  color: #8ec038;
+  text-decoration: none;
+  font-family: var(--font-headers), serif;
+}
