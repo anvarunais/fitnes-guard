@@ -4,7 +4,9 @@ import image from "../assets/dietlist.png";
 const Howitworks = () => {
   return (
     <div>
-      <h1  className="firstheading">It's not just food, It's a lifestyle!</h1>
+      {/* <h1  className="firstheading">It's not just food, It's a lifestyle!</h1> */}
+      <h1  className="mainheading">LOSE WEIGHT</h1>
+      <h1  className="firstheading">LOOK GREAT AND FEEL HEALTHY!</h1>
 
       <div className="howitworksbottom">
         <div className="howitworksbottom">

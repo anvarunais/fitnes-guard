@@ -16,13 +16,18 @@
   margin-left: auto;
   margin-right: auto;
 }
-.howitworksbottom{
-    margin: 1rem;
+.howitworksbottom {
+  margin: 1rem;
 }
-.paragraph{
-    margin-top: 1.6rem;
+.paragraph {
+  margin-top: 1.6rem;
 }
 
+.mainheading {
+  font-size: 3.5rem;
+  margin: 2rem;
+  color: #8ec038;
+}
 /* .spamcolor {
   color: #8ec038;
 } */
