@@ -2,7 +2,7 @@ import { Component } from "react";
 import "./Navbar.css";
 import { Menu } from "./Menu";
 import { Link } from "react-router-dom";
-import nav_logo from "../assets/fitness-logo.jpeg";
+import nav_logo from "../assets/fitness-logo.png";
 
 class Navbar extends Component {
   state = { clicked: false };

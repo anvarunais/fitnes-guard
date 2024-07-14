@@ -1,8 +1,8 @@
 import "./Footers.css";
-import nav_logo from "../assets/fitness-logo.jpeg";
+// import nav_logo from "../assets/fitness-logo.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FaHome, FaPhoneAlt, FaEnvelope } from "react-icons/fa";
-import footer_logo from "../assets/fitness-logo.jpeg";
+import Footer_logo from "../assets/fitness-logo.png";
 
 const Footers = () => {
   return (
@@ -10,7 +10,7 @@ const Footers = () => {
       <div className="container">
         <div className="row py-5  text-white">
           <div className="col-md-3 col-sm-12">
-            <img src={footer_logo} alt="" className="footerlogo" />
+            <img src={Footer_logo} alt="" className="footerlogo" />
           </div>
           <div className="col-md-3 col-sm-12">
             <h4 className="text-warning text-white">Contact</h4>
