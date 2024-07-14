@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fitnes-guard/static/css/main.6ad4c1ad.css",
+    "main.js": "/fitnes-guard/static/js/main.5af3c066.js",
+    "static/media/serviceimg.jpg": "/fitnes-guard/static/media/serviceimg.8f0daec2c45040a528ca.jpg",
+    "static/media/homeimg.jpg": "/fitnes-guard/static/media/homeimg.d7a73582d26eb1570465.jpg",
+    "static/media/dietlist.png": "/fitnes-guard/static/media/dietlist.09e57c48ccc18ad9f606.png",
+    "static/media/tailered2.png": "/fitnes-guard/static/media/tailered2.2050336b42188d598a5e.png",
+    "static/media/ongoing2.png": "/fitnes-guard/static/media/ongoing2.3bb070659099d9f3633b.png",
+    "static/media/cash2.png": "/fitnes-guard/static/media/cash2.6f90e46022baf617cbe9.png",
+    "static/media/trainer2.png": "/fitnes-guard/static/media/trainer2.07da354e1c5761fc0a8c.png",
+    "static/media/about.jpg": "/fitnes-guard/static/media/about.eb9cc626a99bf3caef18.jpg",
+    "static/media/contactus.jpg": "/fitnes-guard/static/media/contactus.df08d23b593ab9a37efc.jpg",
+    "static/media/fitness-logo.png": "/fitnes-guard/static/media/fitness-logo.57cc87adfbf2c414780a.png",
+    "static/media/collabs-4.png": "/fitnes-guard/static/media/collabs-4.1c709792c07b75376145.png",
+    "static/media/collabs-2.png": "/fitnes-guard/static/media/collabs-2.de21c2062a01546731cb.png",
+    "static/media/collabs-1.png": "/fitnes-guard/static/media/collabs-1.18415336027e0e436004.png",
+    "static/media/collabs-3.png": "/fitnes-guard/static/media/collabs-3.baaae14d83a48327e4a8.png",
+    "index.html": "/fitnes-guard/index.html",
+    "main.6ad4c1ad.css.map": "/fitnes-guard/static/css/main.6ad4c1ad.css.map",
+    "main.5af3c066.js.map": "/fitnes-guard/static/js/main.5af3c066.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad4c1ad.css",
+    "static/js/main.5af3c066.js"
+  ]
+}
