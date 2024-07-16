@@ -1,5 +1,6 @@
 {
   "name": "fitnessguard",
+  "homepage": "https://anvarunais.github.io/fitnes-guard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
